@@ -3,8 +3,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Wesley'
-export const siteTitle = 'Next.js Sample Website'
+const name = 'Wesley Gimenez'
+export const siteTitle = 'Wesley - Dev Next JS'
 
 export default function Layout(e) {
   var { children, home } = e
@@ -15,7 +15,7 @@ export default function Layout(e) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Learn how to build a Dev Next JS using Next.js"
         />
         <meta
           property="og:image"

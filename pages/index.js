@@ -11,6 +11,7 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
         <meta name="google-site-verification" content="R86txzepkoBAbhQ2O-obkmZKrNo8VlUWI9Rsd1uJ670" />
+        <link rel='canonical' href='https://nextjs-blog-blond-tau.vercel.app/'/>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Desenvolva uma aplicação fullstack para sua empresa com o apoio de um profissional de desenvolvimento web.</p>

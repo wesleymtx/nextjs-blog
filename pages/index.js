@@ -10,6 +10,7 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        <meta name="google-site-verification" content="R86txzepkoBAbhQ2O-obkmZKrNo8VlUWI9Rsd1uJ670" />
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Desenvolva uma aplicação fullstack para sua empresa com o apoio de um profissional de desenvolvimento web.</p>

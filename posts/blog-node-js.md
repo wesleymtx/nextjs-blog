@@ -10,3 +10,7 @@ Blog para compradores: **Node JS** e **Express HandleBars**.  Totalmente **perso
 - **Design do twitter** - desenvolvido com bootstrap!.
 - **Segurança** para login e cadastro!.
 - **Banco de dados** mongoDB totalmente em nuvem!.
+
+*Github:* [https://github.com/wesleymtx/BLogNodeJsMongoDB](https://github.com/wesleymtx/BLogNodeJsMongoDB)
+
+*Publicado em:* [https://tranquil-garden-40614.herokuapp.com](https://tranquil-garden-40614.herokuapp.com/)

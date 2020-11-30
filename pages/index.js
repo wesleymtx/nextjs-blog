@@ -14,10 +14,10 @@ export default function Home({ allPostsData }) {
         <link rel='canonical' href='https://gimenezfullstack.vercel.app/'/>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Desenvolva uma aplicação fullstack para sua empresa com o apoio de um profissional de desenvolvimento web.</p>
+        <p>Desenvolvimento de aplicacações fullstack com react, next js e mongo DB.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Posts</h2>
+        <h2 className={utilStyles.headingLg}>Postagens</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>

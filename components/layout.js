@@ -3,7 +3,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Wesley Gimenez'
+const name = 'Wesley - Dev Next JS'
 export const siteTitle = 'Wesley - Dev Next JS'
 
 export default function Layout(e) {
@@ -15,7 +15,7 @@ export default function Layout(e) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Blog personal professional"
+          content="Blog profissional para projetos full stack"
         />
         <meta
           property="og:image"
